@@ -6,3 +6,8 @@ This project implements two algorithms:
 - A recursive merge sort algorithm for sorting arrays.
 
 The Fibonacci functions demonstrate both iterative and recursive approaches, while the merge sort function highlights recursion as a method to break down and sort arrays efficiently.
+
+## Technologies Used
+
+- **JavaScript**: For implementing the algorithms.
+- **HTML**: For creating the basic structure and layout of the project.
